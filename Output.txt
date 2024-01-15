@@ -1,0 +1,1080 @@
+--------------------------------------------------------------------------
+          Employees who have worked for 7 consecutive days:                         
+---------------------------------------------------------------------------
+From Sat Sep 16 2023 to Fri Sep 22 2023
+Employee Name is: CeWdEza, Erik
+Employee Position Id is: WFS000465
+Employee Position Status is: Active
+---------------------------------------------------------------------------
+From Fri Sep 15 2023 to Thu Sep 21 2023
+Employee Name is: HaCiXMEW, DeaWMe DevEW
+Employee Position Id is: WFS000536
+Employee Position Status is: Active
+---------------------------------------------------------------------------
+From Mon Sep 11 2023 to Sun Sep 17 2023
+Employee Name is: CharXes, EGadiah SEraccE Jr
+Employee Position Id is: WFS000566
+Employee Position Status is: Active
+---------------------------------------------------------------------------
+From Mon Sep 11 2023 to Sun Sep 17 2023
+Employee Name is: CiGriaW DeXgadE, EXeWa S
+Employee Position Id is: WFS000574
+Employee Position Status is: Active
+---------------------------------------------------------------------------
+From Wed Sep 13 2023 to Tue Sep 19 2023
+Employee Name is: AGeX, WaMhaW REGerM PeWa
+Employee Position Id is: WFS000588
+Employee Position Status is: Active
+---------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------
+     Employees who have worked for more than 14 hours in a single shift:
+-----------------------------------------------------------------------------
+Employee Name is:  MaXeGi, ACirCasEAd
+Employee Position Id is:  WFS000364
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  8:0
+afternoon to evening Timecard hours:  8:0
+-----------------------------------------------------------------------
+Employee Name is:  ZaCEra, CigAeX
+Employee Position Id is:  WFS000499
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  6:1
+afternoon to evening Timecard hours:  9:42
+----------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------
+     Employees with less than 10 hours between shifts but greater than 1 hour
+----------------------------------------------------------------------------
+Employee Name is:  HEGGie ErMega, SeGasMiaW CichaeX
+Employee Position Id is:  WFS000549
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:42
+afternoon to evening Timecard hours:  4:52
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:23
+afternoon to evening Timecard hours:  4:52
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:54
+afternoon to evening Timecard hours:  5:1
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:37
+afternoon to evening Timecard hours:  4:32
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:57
+afternoon to evening Timecard hours:  4:27
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:25
+afternoon to evening Timecard hours:  4:22
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:30
+afternoon to evening Timecard hours:  5:16
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:15
+afternoon to evening Timecard hours:  4:56
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:30
+afternoon to evening Timecard hours:  4:47
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:36
+afternoon to evening Timecard hours:  5:16
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:50
+afternoon to evening Timecard hours:  5:17
+-----------------------------------------------------------------------
+Employee Name is:  REdrigAez, GraWdEW AWgeX
+Employee Position Id is:  WFS000550
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:32
+afternoon to evening Timecard hours:  3:32
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  0:50
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:5
+afternoon to evening Timecard hours:  1:30
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:15
+afternoon to evening Timecard hours:  2:56
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  3:56
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:49
+afternoon to evening Timecard hours:  4:32
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:41
+afternoon to evening Timecard hours:  2:32
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:40
+afternoon to evening Timecard hours:  4:14
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:19
+afternoon to evening Timecard hours:  3:6
+-----------------------------------------------------------------------
+Employee Name is:  Diaz GaXvez, RicardE JEsAe
+Employee Position Id is:  WFS000551
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:30
+afternoon to evening Timecard hours:  2:58
+Employee Name is: Diaz GaXvez, RicardE JEsAe
+Employee Position Id is: WFS000551
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 4:22
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:1
+afternoon to evening Timecard hours:  2:3
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:53
+afternoon to evening Timecard hours:  3:36
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:45
+afternoon to evening Timecard hours:  5:0
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:0
+afternoon to evening Timecard hours:  1:48
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:15
+afternoon to evening Timecard hours:  2:31
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:0
+afternoon to evening Timecard hours:  4:19
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:37
+afternoon to evening Timecard hours:  4:46
+-----------------------------------------------------------------------
+Employee Name is:  EsMrada, JEse FeXix
+Employee Position Id is:  WFS000552
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  2:22
+afternoon to evening Timecard hours:  4:50
+Employee Name is: EsMrada, JEse FeXix
+Employee Position Id is: WFS000552
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 2:50
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:32
+afternoon to evening Timecard hours:  3:21
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  5:18
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:4
+afternoon to evening Timecard hours:  4:17
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:12
+afternoon to evening Timecard hours:  4:47
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:16
+afternoon to evening Timecard hours:  4:42
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:23
+afternoon to evening Timecard hours:  4:43
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:6
+afternoon to evening Timecard hours:  4:51
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:22
+afternoon to evening Timecard hours:  3:23
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:15
+afternoon to evening Timecard hours:  3:58
+-----------------------------------------------------------------------
+Employee Name is:  SMrickXaWd, REdWey EAgeWe
+Employee Position Id is:  WFS000555
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  3:44
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:19
+afternoon to evening Timecard hours:  2:36
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  2:34
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:52
+afternoon to evening Timecard hours:  2:50
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:49
+afternoon to evening Timecard hours:  3:42
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  1:25
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:35
+afternoon to evening Timecard hours:  2:26
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:19
+afternoon to evening Timecard hours:  3:6
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:49
+afternoon to evening Timecard hours:  4:41
+-----------------------------------------------------------------------
+Employee Name is:  RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee Position Id is:  WFS000556
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:19
+afternoon to evening Timecard hours:  2:2
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:19
+afternoon to evening Timecard hours:  3:29
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:53
+afternoon to evening Timecard hours:  4:22
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:14
+afternoon to evening Timecard hours:  4:30
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:50
+afternoon to evening Timecard hours:  4:12
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:18
+afternoon to evening Timecard hours:  4:32
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:46
+afternoon to evening Timecard hours:  3:3
+-----------------------------------------------------------------------
+Employee Name is:  JerEWiCE CEraXes, CarXEs D
+Employee Position Id is:  WFS000557
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:42
+afternoon to evening Timecard hours:  2:46
+-----------------------------------------------------------------------
+Employee Name is:  CharXes, EGadiah SEraccE Jr
+Employee Position Id is:  WFS000566
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  2:11
+afternoon to evening Timecard hours:  6:48
+-----------------------------------------------------------------------
+Employee Name is:  CharXes, EGadiah SEraccE Jr
+Employee Position Id is:  WFS000566
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  6:28
+afternoon to evening Timecard hours:  2:2
+Employee Name is: CharXes, EGadiah SEraccE Jr
+Employee Position Id is: WFS000566
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 4:0
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:38
+afternoon to evening Timecard hours:  3:14
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  1:7
+afternoon to evening Timecard hours:  3:51
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  2:30
+afternoon to evening Timecard hours:  3:50
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  1:7
+afternoon to evening Timecard hours:  4:20
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:23
+afternoon to evening Timecard hours:  4:35
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  2:49
+afternoon to evening Timecard hours:  4:23
+-----------------------------------------------------------------------
+Employee Name is:  DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is:  WFS000569
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:8
+afternoon to evening Timecard hours:  4:33
+Employee Name is: DECiWgAez AviWa, CigAeX AWgeX
+Employee Position Id is: WFS000569
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 3:12
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:39
+afternoon to evening Timecard hours:  4:35
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  2:0
+afternoon to evening Timecard hours:  4:35
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  5:51
+afternoon to evening Timecard hours:  4:32
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  4:10
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:49
+afternoon to evening Timecard hours:  2:1
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:24
+afternoon to evening Timecard hours:  4:37
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:14
+afternoon to evening Timecard hours:  1:55
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:51
+afternoon to evening Timecard hours:  4:11
+-----------------------------------------------------------------------
+Employee Name is:  CAevas ZavaXa, JErge XAis
+Employee Position Id is:  WFS000571
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:33
+afternoon to evening Timecard hours:  4:9
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:48
+afternoon to evening Timecard hours:  5:9
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:51
+afternoon to evening Timecard hours:  4:42
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:45
+afternoon to evening Timecard hours:  4:14
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:24
+afternoon to evening Timecard hours:  4:20
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:16
+afternoon to evening Timecard hours:  4:40
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:23
+afternoon to evening Timecard hours:  5:3
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:16
+afternoon to evening Timecard hours:  4:27
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:50
+afternoon to evening Timecard hours:  4:37
+-----------------------------------------------------------------------
+Employee Name is:  XariEs XaWdaverde, XAis ErWesME
+Employee Position Id is:  WFS000572
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:51
+afternoon to evening Timecard hours:  4:40
+-----------------------------------------------------------------------
+Employee Name is:  VaXderraCa CasMiXXE, Escar FaGiaW
+Employee Position Id is:  WFS000573
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  3:59
+-----------------------------------------------------------------------
+Employee Name is:  VaXderraCa CasMiXXE, Escar FaGiaW
+Employee Position Id is:  WFS000573
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:59
+afternoon to evening Timecard hours:  3:32
+-----------------------------------------------------------------------
+Employee Name is:  VaXderraCa CasMiXXE, Escar FaGiaW
+Employee Position Id is:  WFS000573
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:47
+afternoon to evening Timecard hours:  3:24
+-----------------------------------------------------------------------
+Employee Name is:  VaXderraCa CasMiXXE, Escar FaGiaW
+Employee Position Id is:  WFS000573
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:18
+afternoon to evening Timecard hours:  2:56
+-----------------------------------------------------------------------
+Employee Name is:  VaXderraCa CasMiXXE, Escar FaGiaW
+Employee Position Id is:  WFS000573
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:32
+afternoon to evening Timecard hours:  5:1
+Employee Name is: VaXderraCa CasMiXXE, Escar FaGiaW
+Employee Position Id is: WFS000573
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 8:57
+-----------------------------------------------------------------------
+Employee Name is:  CiGriaW DeXgadE, EXeWa S
+Employee Position Id is:  WFS000574
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  3:27
+-----------------------------------------------------------------------
+Employee Name is:  CiGriaW DeXgadE, EXeWa S
+Employee Position Id is:  WFS000574
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  3:38
+-----------------------------------------------------------------------
+Employee Name is:  CiGriaW DeXgadE, EXeWa S
+Employee Position Id is:  WFS000574
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:0
+afternoon to evening Timecard hours:  4:55
+Employee Name is: CiGriaW DeXgadE, EXeWa S
+Employee Position Id is: WFS000574
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 4:34
+-----------------------------------------------------------------------
+Employee Name is:  CarMer, XyWWeXX DejAaW Jr
+Employee Position Id is:  WFS000576
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:14
+afternoon to evening Timecard hours:  5:13
+-----------------------------------------------------------------------
+Employee Name is:  SaWchez, ArWAXfE
+Employee Position Id is:  WFS000577
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:3
+afternoon to evening Timecard hours:  4:4
+-----------------------------------------------------------------------
+Employee Name is:  SaWchez, ArWAXfE
+Employee Position Id is:  WFS000577
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:12
+afternoon to evening Timecard hours:  4:15
+-----------------------------------------------------------------------
+Employee Name is:  SaWchez, ArWAXfE
+Employee Position Id is:  WFS000577
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:52
+afternoon to evening Timecard hours:  1:8
+-----------------------------------------------------------------------
+Employee Name is:  SaWchez, ArWAXfE
+Employee Position Id is:  WFS000577
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:23
+afternoon to evening Timecard hours:  5:57
+-----------------------------------------------------------------------
+Employee Name is:  SaWchez, ArWAXfE
+Employee Position Id is:  WFS000577
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:22
+afternoon to evening Timecard hours:  3:33
+-----------------------------------------------------------------------
+Employee Name is:  SaWchez, ArWAXfE
+Employee Position Id is:  WFS000577
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:42
+afternoon to evening Timecard hours:  4:40
+-----------------------------------------------------------------------
+Employee Name is:  VasqAez, JEhW SeGasMiaW
+Employee Position Id is:  WFS000578
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:37
+afternoon to evening Timecard hours:  3:13
+-----------------------------------------------------------------------
+Employee Name is:  VasqAez, JEhW SeGasMiaW
+Employee Position Id is:  WFS000578
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:55
+afternoon to evening Timecard hours:  1:54
+-----------------------------------------------------------------------
+Employee Name is:  VasqAez, JEhW SeGasMiaW
+Employee Position Id is:  WFS000578
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:32
+afternoon to evening Timecard hours:  0:4
+-----------------------------------------------------------------------
+Employee Name is:  VasqAez, JEhW SeGasMiaW
+Employee Position Id is:  WFS000578
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  2:40
+afternoon to evening Timecard hours:  3:27
+-----------------------------------------------------------------------
+Employee Name is:  VasqAez, JEhW SeGasMiaW
+Employee Position Id is:  WFS000578
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  1:7
+afternoon to evening Timecard hours:  3:13
+Employee Name is: VasqAez, JEhW SeGasMiaW
+Employee Position Id is: WFS000578
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 2:25
+-----------------------------------------------------------------------
+Employee Name is:  GAMierrez, PedrE CigAeX
+Employee Position Id is:  WFS000579
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:1
+afternoon to evening Timecard hours:  4:17
+-----------------------------------------------------------------------
+Employee Name is:  GAMierrez, PedrE CigAeX
+Employee Position Id is:  WFS000579
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:5
+afternoon to evening Timecard hours:  5:19
+-----------------------------------------------------------------------
+Employee Name is:  GAMierrez, PedrE CigAeX
+Employee Position Id is:  WFS000579
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:18
+afternoon to evening Timecard hours:  3:35
+-----------------------------------------------------------------------
+Employee Name is:  GAMierrez, PedrE CigAeX
+Employee Position Id is:  WFS000579
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:47
+afternoon to evening Timecard hours:  2:45
+-----------------------------------------------------------------------
+Employee Name is:  GAMierrez, PedrE CigAeX
+Employee Position Id is:  WFS000579
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:15
+afternoon to evening Timecard hours:  1:49
+-----------------------------------------------------------------------
+Employee Name is:  GAMierrez, PedrE CigAeX
+Employee Position Id is:  WFS000579
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  6:2
+afternoon to evening Timecard hours:  3:30
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:19
+afternoon to evening Timecard hours:  2:50
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  1:4
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:0
+afternoon to evening Timecard hours:  4:24
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:2
+afternoon to evening Timecard hours:  1:47
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  4:49
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  2:34
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  3:35
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  3:20
+-----------------------------------------------------------------------
+Employee Name is:  HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is:  WFS000581
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  3:34
+Employee Name is: HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee Position Id is: WFS000581
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 6:58
+-----------------------------------------------------------------------
+Employee Name is:  De XEs SaWMEs, JEseph XAis
+Employee Position Id is:  WFS000582
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:15
+afternoon to evening Timecard hours:  2:10
+-----------------------------------------------------------------------
+Employee Name is:  De XEs SaWMEs, JEseph XAis
+Employee Position Id is:  WFS000582
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:44
+afternoon to evening Timecard hours:  4:40
+-----------------------------------------------------------------------
+Employee Name is:  De XEs SaWMEs, JEseph XAis
+Employee Position Id is:  WFS000582
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:46
+afternoon to evening Timecard hours:  4:36
+-----------------------------------------------------------------------
+Employee Name is:  De XEs SaWMEs, JEseph XAis
+Employee Position Id is:  WFS000582
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:35
+afternoon to evening Timecard hours:  2:16
+-----------------------------------------------------------------------
+Employee Name is:  De XEs SaWMEs, JEseph XAis
+Employee Position Id is:  WFS000582
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:35
+afternoon to evening Timecard hours:  2:27
+-----------------------------------------------------------------------
+Employee Name is:  De XEs SaWMEs, JEseph XAis
+Employee Position Id is:  WFS000582
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:49
+afternoon to evening Timecard hours:  2:43
+Employee Name is: De XEs SaWMEs, JEseph XAis
+Employee Position Id is: WFS000582
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 7:7
+-----------------------------------------------------------------------
+Employee Name is:  ViXXa, AXfredE AieXXE
+Employee Position Id is:  WFS000583
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:40
+afternoon to evening Timecard hours:  5:8
+-----------------------------------------------------------------------
+Employee Name is:  ViXXa, AXfredE AieXXE
+Employee Position Id is:  WFS000583
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:15
+afternoon to evening Timecard hours:  5:5
+-----------------------------------------------------------------------
+Employee Name is:  ViXXa, AXfredE AieXXE
+Employee Position Id is:  WFS000583
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  1:3
+afternoon to evening Timecard hours:  4:15
+-----------------------------------------------------------------------
+Employee Name is:  ViXXa, AXfredE AieXXE
+Employee Position Id is:  WFS000583
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  5:33
+afternoon to evening Timecard hours:  4:15
+Employee Name is: ViXXa, AXfredE AieXXE
+Employee Position Id is: WFS000583
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 3:50
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  5:27
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:55
+afternoon to evening Timecard hours:  4:35
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:10
+afternoon to evening Timecard hours:  2:11
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:5
+afternoon to evening Timecard hours:  5:35
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:24
+afternoon to evening Timecard hours:  4:44
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:35
+afternoon to evening Timecard hours:  4:47
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:35
+afternoon to evening Timecard hours:  4:13
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:30
+afternoon to evening Timecard hours:  5:19
+-----------------------------------------------------------------------
+Employee Name is:  ArCeWMa FXEres, JEWaMhaW
+Employee Position Id is:  WFS000584
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:54
+afternoon to evening Timecard hours:  5:1
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:55
+afternoon to evening Timecard hours:  5:28
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:0
+afternoon to evening Timecard hours:  2:27
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:19
+afternoon to evening Timecard hours:  3:40
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:11
+afternoon to evening Timecard hours:  4:16
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:30
+afternoon to evening Timecard hours:  4:45
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:30
+afternoon to evening Timecard hours:  3:55
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:25
+afternoon to evening Timecard hours:  3:4
+-----------------------------------------------------------------------
+Employee Name is:  RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is:  WFS000585
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:46
+afternoon to evening Timecard hours:  2:31
+Employee Name is: RaCEs HerWaWdez, AdieX ECar
+Employee Position Id is: WFS000585
+Employee Position Status is: Active
+Morning to afternoon Timecard hours: 4:3
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  4:35
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  4:37
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:0
+afternoon to evening Timecard hours:  4:11
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:50
+afternoon to evening Timecard hours:  4:6
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  4:34
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:47
+afternoon to evening Timecard hours:  3:25
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:27
+afternoon to evening Timecard hours:  4:45
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:30
+afternoon to evening Timecard hours:  5:19
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:50
+afternoon to evening Timecard hours:  4:36
+-----------------------------------------------------------------------
+Employee Name is:  XariEs, Cesar GiEvaWWi
+Employee Position Id is:  WFS000587
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:55
+afternoon to evening Timecard hours:  4:15
+-----------------------------------------------------------------------
+Employee Name is:  AGeX, WaMhaW REGerM PeWa
+Employee Position Id is:  WFS000588
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:20
+afternoon to evening Timecard hours:  4:37
+-----------------------------------------------------------------------
+Employee Name is:  AGeX, WaMhaW REGerM PeWa
+Employee Position Id is:  WFS000588
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:4
+afternoon to evening Timecard hours:  5:10
+-----------------------------------------------------------------------
+Employee Name is:  AGeX, WaMhaW REGerM PeWa
+Employee Position Id is:  WFS000588
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:5
+afternoon to evening Timecard hours:  3:53
+-----------------------------------------------------------------------
+Employee Name is:  AGeX, WaMhaW REGerM PeWa
+Employee Position Id is:  WFS000588
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:58
+afternoon to evening Timecard hours:  4:59
+-----------------------------------------------------------------------
+Employee Name is:  AGeX, WaMhaW REGerM PeWa
+Employee Position Id is:  WFS000588
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:49
+afternoon to evening Timecard hours:  3:5
+-----------------------------------------------------------------------
+Employee Name is:  WgAyeW, RayCEWd
+Employee Position Id is:  WFS000589
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  3:55
+afternoon to evening Timecard hours:  3:15
+-----------------------------------------------------------------------
+Employee Name is:  WgAyeW, RayCEWd
+Employee Position Id is:  WFS000589
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  6:0
+afternoon to evening Timecard hours:  3:29
+-----------------------------------------------------------------------
+Employee Name is:  WgAyeW, RayCEWd
+Employee Position Id is:  WFS000589
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:5
+afternoon to evening Timecard hours:  4:1
+-----------------------------------------------------------------------
+Employee Name is:  WgAyeW, RayCEWd
+Employee Position Id is:  WFS000589
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:35
+afternoon to evening Timecard hours:  4:29
+-----------------------------------------------------------------------
+Employee Name is:  WgAyeW, RayCEWd
+Employee Position Id is:  WFS000589
+Employee Position Status is:  Active
+Morning to afternoon Timecard hours:  4:34
+afternoon to evening Timecard hours:  4:16
+------------------------------------------------------------------------
